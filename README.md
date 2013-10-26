@@ -12,3 +12,5 @@ http://tributary.io/inlet/4458395/
 
 
 http://mrdoob.github.io/three.js/examples/css3d_periodictable.html
+
+http://www.stolaf.edu/depts/chemistry/mo/struc/explore.htm
